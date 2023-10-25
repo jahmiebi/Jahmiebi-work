@@ -1,0 +1,18 @@
+.pink{
+    text-align: center;
+}
+.hello{
+    text-transform: uppercase;
+}  
+ .pink{
+    color: pink;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.hello{
+    color: blue
+}

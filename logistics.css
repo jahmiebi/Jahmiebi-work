@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    transition:0;
+    overflow:hidden;
+    font-family:sans-serif;
+}
+.containerfluid{
+    width:100%;
+    height:100vh;
+    background:linear-gradient(to left,rgba(0,0,0,0.5)50% ,rgba(0,0,0,0.5)50%),url(Business-Self-Driving-Trucks-TuSimple.webp) center/cover;
+    background-repeat: no-repeat;
+}
+.container{
+    width:1200px;
+    height:80px;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.logo{
+    color:white;
+    cursor:pointer;
+}
+nav ul{
+    list-style:none;
+}
+
